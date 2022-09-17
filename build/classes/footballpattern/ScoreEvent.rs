@@ -1,0 +1,1 @@
+footballobserverdesignpatt.ScoreEvent
